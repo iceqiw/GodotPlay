@@ -14,5 +14,4 @@ zconf.h.included
 *.TMP
 logs
 Thumbs.db
-.import
 .gitignore

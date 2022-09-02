@@ -8,16 +8,6 @@
 
 config_version=4
 
-_global_script_classes=[ {
-"base": "Sprite",
-"class": "player",
-"language": "NativeScript",
-"path": "res://script/Player.gdns"
-} ]
-_global_script_class_icons={
-"player": ""
-}
-
 [application]
 
 config/name="demo"
